@@ -1,4 +1,4 @@
-# repetitions-in-replies-acceleration-effect
+# Repetition in dialogical replies: The Effect of Acceleration
 
 Supplementary materials for the paper ""Как же как же! Russian Discourse Formula of Confirmation as a Marker of Recognition"" 
 by Ekaterina Rakhilina and Polina Bychkova
